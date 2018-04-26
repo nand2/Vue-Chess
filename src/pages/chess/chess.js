@@ -17,7 +17,7 @@ export default {
       userid: Math.floor(Math.random() * 1000),
       side: 'w',
       twoplayer: false,
-      iconDir: 'static/icons/'
+      iconDir: 'themes/new_ordissinaute/assets/app/chess/icons/'
     }
   },
   computed: {
